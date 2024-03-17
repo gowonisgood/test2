@@ -7,7 +7,7 @@ public class Background : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        //a
+        //a hey yo man
     }
 
     // Update is called once per frame
